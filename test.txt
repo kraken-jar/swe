@@ -1,0 +1,4 @@
+Open Eclipse - file - new project - (add libraries) right click project - configure build path - add external jars (add junit jar) - add library (junit) - right click src - new package - new class - assertEquals(’my code’,str) - run
+
+----------------
+assertTrue(int1>int2);
